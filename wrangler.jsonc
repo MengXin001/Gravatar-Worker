@@ -9,7 +9,7 @@
   },
   "routes": [
     {
-      "pattern": "gravatar.zla.app",
+      "pattern": "gravatar.mashirox.com",
       "custom_domain": true
     }
   ]

@@ -39,7 +39,7 @@ app.get(
   }),
 )
 
-app.get('/', c => c.render(<ApiDocs />))
+//app.get('/', c => c.render(<ApiDocs />))
 
 // Your own gravatar link
 app.get('/avatar/me', async (c) => {

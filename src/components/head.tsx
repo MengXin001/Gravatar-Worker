@@ -27,8 +27,8 @@ const Head = () => {
       <meta property="og:title" content="ZLA Gravatar CDN - Fast & Modern Avatar Proxy" />
       <meta property="og:description" content="A fast, modern, and cache-friendly Gravatar CDN proxy built with Cloudflare Workers. Supports WebP/AVIF conversion, intelligent caching, and MD5/SHA-256 hash lookups." />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://gravatar.zla.app/" />
-      <meta property="og:image" content="https://gravatar.zla.app/og-image.png" />
+      <meta property="og:url" content="https://gravatar.mashirox.com/" />
+      <meta property="og:image" content="https://gravatar.mashirox.com/og-image.png" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
       <meta property="og:image:alt" content="ZLA Gravatar CDN - Modern Avatar Proxy Service" />
@@ -39,10 +39,10 @@ const Head = () => {
       <meta name="twitter:creator" content="@ZL_Asica" />
       <meta name="twitter:title" content="ZLA Gravatar CDN - Fast & Modern Avatar Proxy" />
       <meta name="twitter:description" content="A fast, modern, and cache-friendly Gravatar CDN proxy built with Cloudflare Workers. Supports WebP/AVIF conversion, intelligent caching, and MD5/SHA-256 hash lookups." />
-      <meta name="twitter:image" content="https://gravatar.zla.app/og-image.png" />
+      <meta name="twitter:image" content="https://gravatar.mashirox.com/og-image.png" />
       <meta name="twitter:image:alt" content="ZLA Gravatar CDN - Modern Avatar Proxy Service" />
       {/* Additional SEO */}
-      <link rel="canonical" href="https://gravatar.zla.app/" />
+      <link rel="canonical" href="https://gravatar.mashirox.com/" />
       <meta name="theme-color" content="#FFFFFF" />
       <meta name="application-name" content="ZLA Gravatar CDN" />
       {/* Preconnect for performance */}
@@ -61,7 +61,7 @@ const Head = () => {
           '@context': 'https://schema.org',
           '@type': 'WebApplication',
           'name': 'ZLA Gravatar CDN',
-          'url': 'https://gravatar.zla.app/',
+          'url': 'https://gravatar.mashirox.com/',
           'description': 'A fast, modern, and cache-friendly Gravatar CDN proxy built with Cloudflare Workers. Supports WebP/AVIF conversion, intelligent caching, and MD5/SHA-256 hash lookups.',
           'keywords': ['Gravatar CDN', 'Avatar Proxy', 'WebP', 'AVIF', 'Cloudflare Workers', 'Image Optimization'],
           'applicationCategory': 'WebApplication',

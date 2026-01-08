@@ -19,7 +19,7 @@ export const cacheHeaders = (
   const staleReval = ok ? STALE_REVAL_OK : STALE_REVAL_404
 
   return {
-    'X-Gravatar-CDN': 'https://gravatar.zla.app',
+    'X-Gravatar-CDN': 'https://gravatar.mashirox.com',
     // Browser cache: shorter TTL, allows stale content during revalidation
     'Cache-Control': `public, max-age=${browserTTL}, stale-while-revalidate=${staleReval}`,
     // CDN cache: longer TTL for edge caching
